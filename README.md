@@ -124,4 +124,8 @@ dotnet run
     
     El archivo *totals.txt* ahora tiene una segunda línea. Cada vez que el programa se ejecute, los totales se volverán a sumar y se escribirá una nueva línea en el archivo.
 
+[![Lectura-Yescritura1.png](https://i.postimg.cc/52WF1PwG/Lectura-Yescritura1.png)](https://postimg.cc/N5b0kkC7)
+
+[![Lectura-Yescritura2.png](https://i.postimg.cc/kgNR5xs5/Lectura-Yescritura2.png)](https://postimg.cc/mPDgX10x)
+
 ![image](https://user-images.githubusercontent.com/104856701/213238578-1cbdd84e-9327-4c74-9b39-f00c51f8b39d.png)
