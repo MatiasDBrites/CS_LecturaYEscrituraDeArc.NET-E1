@@ -123,3 +123,5 @@ dotnet run
 1. Seleccione el archivo *salesTotalDir/totals.txt*.
     
     El archivo *totals.txt* ahora tiene una segunda línea. Cada vez que el programa se ejecute, los totales se volverán a sumar y se escribirá una nueva línea en el archivo.
+
+![image](https://user-images.githubusercontent.com/104856701/213238578-1cbdd84e-9327-4c74-9b39-f00c51f8b39d.png)
